@@ -1,2 +1,2 @@
 # Gaurang Portfolio
-# Articles and writeups
+## Articles and writeups
