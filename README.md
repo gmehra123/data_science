@@ -9,4 +9,3 @@ Articles and write ups on key analytics and data science topics
 
 <a href="./About me.md">About me</a>
 
-<a href="./Articles and writeups.md">Articles and write ups.</a>
