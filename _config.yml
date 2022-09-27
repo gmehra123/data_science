@@ -4,5 +4,5 @@ google_analytics:
 theme: 
 theme: jekyll-theme-cayman
 include:
--index.md
--README.md
+- index.md
+- README.md
