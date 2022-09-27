@@ -6,3 +6,4 @@ theme: jekyll-theme-cayman
 include:
 - README.md
 - index.md
+- About me.md
