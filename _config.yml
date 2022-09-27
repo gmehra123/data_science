@@ -4,5 +4,6 @@ google_analytics:
 theme: jekyll-theme-cayman
 include:
 - README.md
+- test.html
 
 
