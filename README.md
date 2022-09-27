@@ -8,3 +8,4 @@ Articles and write ups on key analytics and data science topics
 2. <a href="https://medium.com/gaurang-portfolio/modelling-uncertainty-monte-carlo-simulations-using-excel-and-python-48908b85bbea">Modelling Uncertainity-: Monte Carlo simulations using excel and Python</a>
 
 <a href="./About me.md">About me</a>
+<a href="./Articles and write ups.md">Articles and write ups.md</a>
