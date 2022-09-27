@@ -1,8 +1,8 @@
 description: Data Science Portfolio.
-show_downloads: False
+show_downloads: True
 google_analytics: 
 theme: jekyll-theme-cayman
 include:
 - README.md
-- About me.md
+
 
