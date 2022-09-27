@@ -3,4 +3,6 @@ show_downloads: False
 google_analytics:
 theme: 
 theme: jekyll-theme-cayman
-
+include:
+- README.md
+- index.md
