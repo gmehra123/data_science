@@ -11,6 +11,7 @@
 
 ## Machine Learning
 1. <a href="https://medium.com/mlearning-ai/segmentation-using-the-rfm-framework-recency-frequency-monetary-value-8bb19ea3b51a">Segmentation using RFM framework (Kmeans Clustering)</a>
+2. <a href="https://medium.com/mlearning-ai/finding-the-most-impactful-features-in-a-dataset-using-mutual-information-criteria-cbf8402a977a">Finding the most impactful features in a dataset using Mutual Information Regression criterion
 
 
 
