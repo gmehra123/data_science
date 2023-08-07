@@ -19,7 +19,7 @@ def low_case_columns(df):
     df.columns = df.columns.str.lower()
     return df
 
-def impute_numeric_values(df,method=np.mean()):
+def impute_numeric_values(df,method=np.mean):
     """Takes a data frame and imputes missing values for the all the numeric columns
 
 
@@ -39,4 +39,18 @@ def impute_numeric_values(df,method=np.mean()):
     for col in num_cols:
         df[col] = df[col].fillna(value=np.mean(df[col]))
     return(df)
+def impute_object_columns(df):
+    """Takes a dataframe and imputes using mode for object columns with nan
+
+    Parameters
+    ----------
+    df : pandas dataframe
+        Dataframe with missing values
+        
+    """
+    obj_cols=df.select_dtypes(include='object').columns
+    for col in obj_cols:
+        df[col] = df[col].fillna(value = df[col].value_counts()[0])
+    
+
 
