@@ -4,8 +4,6 @@ import pandas as pd
 def low_case_columns(df):
     """AI is creating summary for low_case_columns
 
-    [extended_summary]
-
     Parameters
     ----------
     df : pandas dataframe
