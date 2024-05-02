@@ -15,6 +15,7 @@
 2. <a href="https://medium.com/mlearning-ai/finding-the-most-impactful-features-in-a-dataset-using-mutual-information-criteria-cbf8402a977a">Finding the most impactful features in a dataset using Mutual Information Regression criterion
 3. <a href="https://medium.com/@gaurangmehra/dimension-reduction-with-pca-for-everyone-e9c422369547"> Dimension Reduction using Principal Component Analysis
 4. <a href="https://medium.com/@gaurangmehra/introduction-to-3-useful-tree-based-models-30fcf0883492"> Introduction to Tree based models
+5. <a href="https://medium.com/p/1286478860f5">Managing Attrition-: Paramteric Survival Models
 
 ## Software Development for Data scientists
 1. <a href="https://medium.com/@gaurangmehra/guide-to-writing-python-packages-for-data-scientists-ac740a98cb94">Introduction to modular code and package developmentin Python</a>
