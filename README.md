@@ -8,6 +8,7 @@
 ## Statistics
 1. <a href="https://medium.com/gaurang-portfolio/hypothesis-testing-and-confidence-intervals-using-python-a609dbfb5b12">Hypotheis Testing and Confidence Intervals using Python</a>
 2. <a href="https://medium.com/gaurang-portfolio/modelling-uncertainty-monte-carlo-simulations-using-excel-and-python-48908b85bbea">Modelling Uncertainity-: Monte Carlo simulations using excel and Python</a>
+3. <a href="https://medium.com/p/dd9c3db5e82d">Managing Attrition-: An introduction to survival Analysis
 
 ## Machine Learning
 1. <a href="https://medium.com/mlearning-ai/segmentation-using-the-rfm-framework-recency-frequency-monetary-value-8bb19ea3b51a">Segmentation using RFM framework (Kmeans Clustering)</a>
